@@ -17,3 +17,4 @@ git reset --hard commit-id: change to the version you want
 git reflog: check the operation history
 git checkout -- filename: to discard the changes in working directory (ues before add?)
 git rm filename: remove a file
+git push origin master: ervery time you change your file
