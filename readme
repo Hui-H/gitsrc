@@ -11,3 +11,7 @@ Git is a version control system, to begin:
 some useful commands:
 git diff filename: check the change in your file
 git status: check the status of your working directory)
+git log (--pretty=oneline): check file history
+git reset --hard HEAD^: change back to the last version
+git reset --hard commit-id: change to the version you want
+git reflog: check the operation history
