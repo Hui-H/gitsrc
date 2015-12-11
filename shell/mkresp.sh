@@ -18,6 +18,7 @@ while [ "$loop" -lt "$nloop" ]
     cat $currentdrc/response.file > SAC_"$stanm"_resp_z_"$day"_"$mon"_"$yea"
     ((loop += 1))
   done
+#mk response.list
 ls SAC*resp* > response.list
 mv SAC*resp* response.list  resp_files
 date
