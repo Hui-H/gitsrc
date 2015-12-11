@@ -1,5 +1,9 @@
 Git is a version control system, to begin:
+0. git config --global user.name "H.Hui"
+   git config --global user.email "geo.hjhui@gmail.com"
 1. mkdir dir to choose your work directory
 2. cd dir 
 3. git init to generate .git directory which includes configure files
 4. write a text file (e.g. readme)
+5. git add readme
+6. git commit -m "wrote a readme file"
