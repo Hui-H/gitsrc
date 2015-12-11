@@ -7,3 +7,7 @@ Git is a version control system, to begin:
 4. write a text file (e.g. readme)
 5. git add readme
 6. git commit -m "wrote a readme file"
+----------------------------------------------------------------
+some useful commands:
+git diff filename: check the change in your file
+git status: check the status of your working directory)
