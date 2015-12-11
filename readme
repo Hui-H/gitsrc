@@ -1,0 +1,5 @@
+Git is a version control system, to begin:
+1. mkdir dir to choose your work directory
+2. cd dir 
+3. git init to generate .git directory which includes configure files
+4. write a text file (e.g. readme)
